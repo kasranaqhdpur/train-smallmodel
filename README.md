@@ -1,3 +1,9 @@
+<div align="center">
+
+🇺🇸 **English** | [🇮🇷 فارسی](READMEfa.md)
+
+</div>
+
 # 🤖 Persian Companion AI
 
 <p align="center">
