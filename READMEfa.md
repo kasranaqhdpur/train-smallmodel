@@ -1,3 +1,8 @@
+<div align="center">
+
+[🇺🇸 English](README.md) | **🇮🇷 فارسی**
+
+</div>
 # 🤖 دستیار هوش مصنوعی فارسی
 
 <div align="center">
