@@ -1,6 +1,6 @@
 <div align="center">
 
-🇺🇸 **English** | [🇮🇷 فارسی](READMEfa.md)
+🇺🇸 **English** | [🇩🇪 Deutsch](READMEde.md) | [🇮🇷 فارسی](READMEfa.md)
 
 </div>
 
