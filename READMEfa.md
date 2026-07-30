@@ -1,6 +1,6 @@
 <div align="center">
 
-[🇺🇸 English](README.md) | **🇮🇷 فارسی**
+[🇺🇸 English](README.md) | [🇩🇪 Deutsch](READMEde.md) | 🇮🇷 **فارسی**
 
 </div>
 # 🤖 دستیار هوش مصنوعی فارسی
